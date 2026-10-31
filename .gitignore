@@ -2,3 +2,17 @@
 *.pt
 *.ckpt
 *.safetensors
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+data/
+datasets/
+outputs/
+checkpoints/
+logs/
+*.log
+.idea/
+.vscode/
